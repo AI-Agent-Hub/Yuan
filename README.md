@@ -218,3 +218,11 @@ Don't forget to give the project a star! Thanks again!
 [license-shield]: https://img.shields.io/github/license/No-Trade-No-Life/Yuan.svg?style=for-the-badge
 [license-url]: https://github.com/No-Trade-No-Life/Yuan/blob/main/LICENSE.txt
 [language-shield]: https://img.shields.io/badge/Language-TypeScript-blue?style=for-the-badge
+
+#### AI Agent Marketplace Index And Router | [API Doc](https://www.deepnlp.org/doc/ai_agent_marketplace)
+[![AI Agent Marketplace and Router Badge](https://www.deepnlp.org/api/ai_agent_marketplace/svg?name=No-Trade-No-Life/Yuan&badge_type=review)](https://www.deepnlp.org/store/ai-agent/ai-agent/pub-No-Trade-No-Life/yuan)
+
+```
+curl 'https://www.deepnlp.org/api/ai_agent_marketplace/v2?id=No-Trade-No-Life/Yuan'
+```
+    
